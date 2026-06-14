@@ -63,7 +63,7 @@ Upload any student CSV with these columns:
 | `failures` | Past class failures |
 | `studytime` | Weekly study hours |
 
-Sample files included: `student-mat.csv` · `student-por.csv`
+Sample files included: `student-mat.csv` ·
 
 ---
 
