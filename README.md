@@ -71,7 +71,7 @@ Sample files included: `student-mat.csv` · `student-por.csv`
 
 | Layer | Technology |
 |-------|------------|
-| ML Model | XGBoost + Optuna (50-trial tuning) |
+| ML Model | XGBoost (5-fold stratified cross-validation) |
 | Explainability | SHAP TreeExplainer |
 | Backend | FastAPI |
 | Frontend | React 18 + Tailwind CSS |
