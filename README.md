@@ -26,7 +26,7 @@ Upload a student dataset and FAILSAFE will:
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 ### 1. Clone the repo
 ```bash
@@ -46,11 +46,11 @@ python3 -m uvicorn backend:app --reload
 Backend runs at `http://127.0.0.1:8000`
 
 ### 4. Open the frontend
-Open `index.html` directly in your browser — done!
+Open `index.html` directly in your browser — done
 
 ---
 
-## 📁 CSV Format
+## CSV Format
 
 Upload any student CSV with these columns:
 
@@ -67,7 +67,7 @@ Sample files included: `student-mat.csv` · `student-por.csv`
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -80,7 +80,7 @@ Sample files included: `student-mat.csv` · `student-por.csv`
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
@@ -91,7 +91,7 @@ Sample files included: `student-mat.csv` · `student-por.csv`
 
 ---
 
-## 👨‍💻 Team
+## Team
 
 **Ankit · Vaidik · Bhawesh**
 IIT Guwahati
