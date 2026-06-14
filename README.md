@@ -6,17 +6,17 @@ Built as part of coursework at **IIT Guwahati** by Ankit, Vaidik, and Bhawesh.
 
 ---
 
-## 🔗 Live Demo
+##  Live Demo
 
-👉 **[frabjous-sopapillas-2f9086.netlify.app](https://frabjous-sopapillas-2f9086.netlify.app)**
+ **[frabjous-sopapillas-2f9086.netlify.app](https://frabjous-sopapillas-2f9086.netlify.app)**
 
 No setup needed — open the link, upload a CSV, get results instantly.
 
-> ⚠️ First request may take ~60 seconds (Render free tier wakes up from sleep). Wait a moment and retry.
+> First request may take ~60 seconds (Render free tier wakes up from sleep). Wait a moment and retry.
 
 ---
 
-## 🧠 What it does
+## What it does
 
 Upload a student dataset and FAILSAFE will:
 - Predict which students are **at risk of failing**
