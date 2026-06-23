@@ -2,7 +2,6 @@
 
 > An explainable AI system that predicts which students are at risk of academic failure — before it's too late.
 
-Built as part of coursework at **IIT Guwahati** by Ankit, Vaidik, and Bhawesh.
 
 ---
 
@@ -103,5 +102,5 @@ Sample files included: `student-mat.csv` ·
 
 ## Team
 
-**Ankit · Vaidik · Bhawesh**
-IIT Guwahati
+**Ankit Kumar Sinha · Vaidik Maheshwari · Bhawesh Kumar Agrawal**
+Problem Statement by Coding Club IIT Guwahati
